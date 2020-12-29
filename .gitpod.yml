@@ -1,2 +1,5 @@
 image:
   file: .gitpod.dockerfile
+vscode:
+  extensions:
+    - ms-ceintl.vscode-language-pack-ja@1.52.2:/LZLPiWpRkEjC0W6I/iWBw==
