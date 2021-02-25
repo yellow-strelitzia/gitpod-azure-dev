@@ -6,5 +6,5 @@ RUN npm install express node-fetch moment
 # Setup Heroku CLI
 RUN curl https://cli-assets.heroku.com/install.sh | sh
 RUN chown -R gitpod:gitpod /home/gitpod/.cache/heroku
-# Setup AWS CLI
+# Setup Azure CLI
 RUN curl -sL https://aka.ms/InstallAzureCLIDeb | bash
